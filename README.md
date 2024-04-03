@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 Basav here!
 
-<!--
-**basavarajaC/basavarajaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack/Integration/DevSecOps Engineer
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/basavcn/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@bsvrj9320" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently designing and implementing scalable solutions for various projects in the automotive, banking, and retail domains.
+
+🌱 I’m learning advanced cloud solutions and DevSecOps techniques to enhance my skill set and stay up-to-date with industry trends.
+
+👯 I’m looking to collaborate on innovative projects requiring architecture, web development, and system integration expertise.
+
+💬 Ask me about my experience in requirement analysis, problem-solving, and developing user-friendly web applications.
+
+📫 How to reach me: You can reach me via email at bsvrj9320@gmail.com.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: In my free time, I enjoy exploring new technologies, experimenting with DIY projects, and traveling to exotic destinations.
